@@ -1,0 +1,2 @@
+# TIS
+Tvorba informacnych systemov
